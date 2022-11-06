@@ -88,11 +88,11 @@ function Login({}) {
                           </CButton>
                         </div>
                       </form>
-                      <Link to="/register">
+                      {/* <Link to="/register">
                         <p style={{ textDecoration: "none" }}>
                           Didn't have an Account ?
                         </p>
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                 </div>

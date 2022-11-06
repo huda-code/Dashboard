@@ -26,7 +26,7 @@ function Home() {
                 </div>
 
                 <p className="fs-5 text-start fw-normal text-break">
-                  Track all your assignments, PR's, attendence and progress, so you will be always updated with your progress
+                  Track all your assignments, PR's, attendence and progress, so you will be always updated with your progress <br></br>
                  Features: - Access to your Individual performance, know where you stand in the cohort.
                 </p>
                 {/* <p className="fs-5 text-start fw-normal text-break">

@@ -46,7 +46,7 @@ function Navbar() {
                   <span role="img" aria-label="alarm">
                     ⏰
                   </span>
-                  Tasky App
+                  Class Traker
                 </p>
               </COffcanvasTitle>
               <CCloseButton
@@ -66,7 +66,7 @@ function Navbar() {
                     </p>
                   </CNavLink>
                 </CNavItem>
-                <CNavItem>
+                {/* <CNavItem>
                   <CNavLink href="/register">
                     <p className="fs-4  text-decoration-none">
                       <span role="img" aria-label="note">
@@ -75,7 +75,7 @@ function Navbar() {
                       Register
                     </p>
                   </CNavLink>
-                </CNavItem>
+                </CNavItem> */}
 
                 <CNavItem>
                   <CNavLink href="/login">

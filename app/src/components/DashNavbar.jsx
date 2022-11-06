@@ -37,7 +37,7 @@ function DashNavbar() {
                   <span role="img" aria-label="alarm">
                     ⏰
                   </span>
-                  Tasky App
+                  Class Tracker
                 </p>
               </COffcanvasTitle>
               <CCloseButton className="text-reset" />
